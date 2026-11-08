@@ -117,23 +117,6 @@ This page focuses on sales funnel performance, customer segmentation, and agent 
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Real-Estate-Analytics/
-│
-├── README.md
-│
-├── Dashboard/
-│   └── Real_Estate_Dashboard.pbix
-│
-└── Screenshots/
-    ├── Sales-Performance.png
-    └── Agents-Customers-Sales-Funnel.png
-```
-
----
-
 ## 👤 Author & Contact
 
 * Developer: Mourine Emad
