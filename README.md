@@ -117,11 +117,15 @@ This page focuses on sales funnel performance, customer segmentation, and agent 
 
 ---
 
+**Project:** Real Estate Sales & Performance Dashboard  
+**Category:** Data Analytics & Business Intelligence  
+**Tool:** Microsoft Power BI
+
+---
+
 ## 👤 Author & Contact
 
 * Developer: Mourine Emad
 * LinkedIn: https://www.linkedin.com/in/mourine-emad-ba2a301b5/
 * GitHub: https://github.com/mourineemad/mourineemad
-**Project:** Real Estate Sales & Performance Dashboard  
-**Category:** Data Analytics & Business Intelligence  
-**Tool:** Microsoft Power BI
+
